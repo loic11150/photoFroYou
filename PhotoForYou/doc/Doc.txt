@@ -1,0 +1,1 @@
+BDD : table liste attribut type 1 = libelle visible pour tlm, type = 2 libelle pour client , type = 3 libelle pour photographe
